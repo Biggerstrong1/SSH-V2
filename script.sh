@@ -13,8 +13,8 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="iam404"
-password="iam404"
+username="iam777"
+password="iam777"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="300"
@@ -27,14 +27,14 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
-</font></h3>
-<h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
+servermessage="<h6><font color='red'>
+༺╼◅𝔾◦◷◦ℂ◦◷◦ℙ▻╾༻
+</font></h6>
+<h4><font color='white'>
+↪https://t.me/myanmarsshnet
 </font></h4>
 <h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+↝❁↜✮↝❁↜𝖒𝖎𝖓𝖌𝖆𝖑𝖆7↝❁↜✮↝❁↜
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
